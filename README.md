@@ -1,5 +1,5 @@
 ## OpenCV-Examples
-This repository contains example C codes related to Interpolation, histogram equalization on the y-channel, and adaptive median filtering.
+This repository contains example C++ codes related to Interpolation, histogram equalization on the y-channel, and adaptive median filtering.
 
 ## Interpolation
 Interpolation is an operation commonly required for resizing, rotating, and other geometric operations on an image. The interpolation method used in these operations affects the output image quality. This program implements two resizing functions that use bilinear interpolation and nearest neighbor interpolation. In addition to that, it can calculates mean squared error between two images to verify the implementation is consistent with OpenCV’s implementation.
